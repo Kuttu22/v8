@@ -41,7 +41,7 @@
 ## Deploy
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Auto-Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kuttu22/automotive-v8)
 
 
 
@@ -61,4 +61,4 @@ Use This Link     :- [Click Here](https://repl.it/@prgofficial/String-Gen) 👈 
 
 [Click here to see tutorial video](https://youtu.be/d_oX4b7ucWM)
 
-Thanks to [MoTectYT](https://telegram.dog/MO_TECH_YT) and [MRK YT](https://telegram.dog/MRK_YT) for the video
+Thanks to [KuttuThomas](https://t.me/Kuttu_thomas) and [Kuttuthomas](https:https://t.me/Kuttu_thomas) for the video
